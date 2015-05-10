@@ -1,0 +1,1503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bla",
+				"blacklist_path"
+			],
+			[
+				"blac",
+				"blacklist"
+			],
+			[
+				"ART",
+				"ARTICLE"
+			],
+			[
+				"bl",
+				"blacklist_tmp"
+			],
+			[
+				"fs",
+				"fstream"
+			],
+			[
+				"res",
+				"res_ifs"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"getp",
+				"getPort"
+			],
+			[
+				"MA",
+				"MAXFILENAME"
+			],
+			[
+				"ERR",
+				"ARTICLE_ENTER_IDERROR"
+			],
+			[
+				"fun",
+				"func_display_article_list"
+			],
+			[
+				"ar",
+				"article_dir"
+			],
+			[
+				"artic",
+				"article_dir"
+			],
+			[
+				"STATE",
+				"STATE_RECV_TEXT"
+			],
+			[
+				"send",
+				"sendbuff"
+			],
+			[
+				"STAT",
+				"STATE_SEND_ARTICLE"
+			],
+			[
+				"OP_ADD",
+				"OP_ADD_ARTICLE"
+			],
+			[
+				"cli",
+				"client_ref"
+			],
+			[
+				"ARTICLE_",
+				"ARTICLE_EDIT"
+			],
+			[
+				"max",
+				"MAXARTICLEID"
+			],
+			[
+				"ARTI",
+				"ARTICLE"
+			],
+			[
+				"func",
+				"func_add_article"
+			],
+			[
+				"Cli",
+				"Clienthandler"
+			],
+			[
+				"ARTIC",
+				"ARTICLE_MENU_NORMAL"
+			],
+			[
+				"get",
+				"getId"
+			],
+			[
+				"toke",
+				"tokens"
+			],
+			[
+				"func_di",
+				"func_display_article"
+			],
+			[
+				"Art",
+				"Article"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"art",
+				"article_dir"
+			],
+			[
+				"C",
+				"Clienthandler"
+			],
+			[
+				"func_lo",
+				"func_logout"
+			],
+			[
+				"CL",
+				"ClihanlderIterator"
+			],
+			[
+				"ha",
+				"hanlder"
+			],
+			[
+				"func_",
+				"func_yell"
+			],
+			[
+				"cl",
+				"clienthandler_it"
+			],
+			[
+				"Cl",
+				"Clienthandler"
+			],
+			[
+				"MSG",
+				"MSG_LOGIN_SUCCESS"
+			],
+			[
+				"MSG_RE",
+				"MSG_REG_SUCCESS"
+			],
+			[
+				"MSG_REG_",
+				"MSG_REG_DUP"
+			],
+			[
+				"STATE_RECV",
+				"STATE_RECV_TEXT"
+			],
+			[
+				"is",
+				"isLogin"
+			],
+			[
+				"STATE_",
+				"STATE_RECV_TEXT"
+			],
+			[
+				"Ma",
+				"MAINMENU"
+			],
+			[
+				"EID",
+				"EID_UIDDUPLICATED"
+			],
+			[
+				"EID_",
+				"EID_UIDDUPLICATED"
+			],
+			[
+				"err",
+				"err_msg"
+			],
+			[
+				"in",
+				"instr_len"
+			],
+			[
+				"ins",
+				"instr_type"
+			],
+			[
+				"OP_SHOW",
+				"OP_SHOWARTICLE"
+			],
+			[
+				"OP_SH",
+				"OP_SHOWUSER"
+			],
+			[
+				"OP_RE",
+				"OP_REGISTER"
+			],
+			[
+				"client",
+				"Client_pos"
+			],
+			[
+				"sed",
+				"send_msg"
+			],
+			[
+				"u",
+				"Udpserver"
+			],
+			[
+				"buff",
+				"buffsize"
+			],
+			[
+				"sock",
+				"sockfd"
+			],
+			[
+				"mai",
+				"mainloop"
+			],
+			[
+				"h",
+				"handler_echo"
+			],
+			[
+				"SER",
+				"SERVER_SRC"
+			],
+			[
+				"ser",
+				"serv_port"
+			],
+			[
+				"hton",
+				"htons"
+			],
+			[
+				"serv",
+				"servaddr"
+			],
+			[
+				"list",
+				"listenfd"
+			],
+			[
+				"ine",
+				"inetaddrp"
+			],
+			[
+				"re",
+				"relative_path"
+			],
+			[
+				"sig_",
+				"sig_chld"
+			],
+			[
+				"ter",
+				"terminate_client"
+			],
+			[
+				"client_send_",
+				"client_send_ack"
+			],
+			[
+				"client_re",
+				"client_receive_download_ack"
+			],
+			[
+				"MAX",
+				"MAXFILENAME"
+			],
+			[
+				"clie",
+				"client_send_msgtype"
+			],
+			[
+				"dir",
+				"dirlist"
+			],
+			[
+				"lis",
+				"listenfd_data"
+			],
+			[
+				"msg",
+				"msg_buff"
+			],
+			[
+				"WA",
+				"WAIT_SERVER"
+			],
+			[
+				"WAIT",
+				"WAIT_SERVER"
+			],
+			[
+				"WAI",
+				"WAIT_CMD"
+			],
+			[
+				"da",
+				"data_proc_id"
+			],
+			[
+				"dat",
+				"data_proc"
+			],
+			[
+				"ch",
+				"childpid"
+			],
+			[
+				"sys",
+				"syscall"
+			],
+			[
+				"data",
+				"data_port"
+			],
+			[
+				"clei",
+				"client_receive_info"
+			],
+			[
+				"sin_",
+				"sin_port"
+			],
+			[
+				"ree",
+				"receive_file"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fetch",
+				"fetch_addr"
+			],
+			[
+				"fet",
+				"fetch_addr"
+			],
+			[
+				"addr",
+				"addr_start"
+			],
+			[
+				"pr",
+				"proc_port"
+			],
+			[
+				"proc",
+				"proc_addr"
+			],
+			[
+				"pro",
+				"proc_addr"
+			],
+			[
+				"SIG",
+				"SIGINT"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"FUN",
+				"func_cmd_txt"
+			],
+			[
+				"PO",
+				"POLLWRNORM"
+			],
+			[
+				"POL",
+				"POLLRDNORM"
+			],
+			[
+				"POLL",
+				"POLLWRNORM"
+			],
+			[
+				"POO",
+				"POLLRDNORM"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"se",
+				"server"
+			],
+			[
+				"va",
+				"isValid_cmd"
+			],
+			[
+				"v",
+				"VALIDCMDS"
+			],
+			[
+				"VA",
+				"VALIDCMDS_LEN"
+			],
+			[
+				"sin",
+				"sin_family"
+			],
+			[
+				"conn",
+				"connfd"
+			],
+			[
+				"soc",
+				"sockfd"
+			],
+			[
+				"sok",
+				"sockfd"
+			],
+			[
+				"recv",
+				"recvline"
+			],
+			[
+				"sockadd",
+				"sockaddr"
+			],
+			[
+				"EX",
+				"EXIT_SUCCESS"
+			],
+			[
+				"pip",
+				"pipefd"
+			],
+			[
+				"c",
+				"client_fp"
+			],
+			[
+				"clien",
+				"client_fp"
+			],
+			[
+				"fprint",
+				"fprintdir"
+			],
+			[
+				"cline",
+				"clientService"
+			],
+			[
+				"cle",
+				"client_name"
+			],
+			[
+				"server_",
+				"server_multiplexer"
+			],
+			[
+				"writ",
+				"writen"
+			],
+			[
+				"func_ec",
+				"func_echo2"
+			],
+			[
+				"client_",
+				"client_state"
+			],
+			[
+				"FD",
+				"FD_SETSIZE"
+			],
+			[
+				"sig",
+				"sig_chld"
+			],
+			[
+				"n",
+				"NETIO_SRC"
+			],
+			[
+				"main",
+				"mainProc"
+			],
+			[
+				"socka",
+				"sockaddr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "udpclient.cpp",
+			"settings":
+			{
+				"buffer_size": 983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udpclient.h",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udpserver.h",
+			"settings":
+			{
+				"buffer_size": 3593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udpserver.cpp",
+			"settings":
+			{
+				"buffer_size": 2041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clienthandler.h",
+			"settings":
+			{
+				"buffer_size": 1910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clienthandler.cpp",
+			"settings":
+			{
+				"buffer_size": 8806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.cpp",
+			"settings":
+			{
+				"buffer_size": 5345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.h",
+			"settings":
+			{
+				"buffer_size": 904,
+				"line_ending": "Unix",
+				"name": "#ifndef _SERVER_H_"
+			}
+		},
+		{
+			"file": "network.h",
+			"settings":
+			{
+				"buffer_size": 859,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "network.cpp",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client.cpp",
+			"settings":
+			{
+				"buffer_size": 6713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "article.h",
+			"settings":
+			{
+				"buffer_size": 2715,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "article.cpp",
+			"settings":
+			{
+				"buffer_size": 6632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bbs.cpp",
+			"settings":
+			{
+				"buffer_size": 2600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bbs.h",
+			"settings":
+			{
+				"buffer_size": 2973,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 398.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pakg",
+				"Package Control: Install Package"
+			],
+			[
+				"VMEN",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 455.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print()",
+			"eee"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/williamd/vim/Network Programming/homework2/test/io.cpp",
+		"/home/williamd/vim/Network Programming/homework2/bbs.h",
+		"/home/williamd/vim/Network Programming/homework2/test/io",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/client.c",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/server.c",
+		"/home/williamd/vim/Network Programming/echo_2nd/echo2nd.sublime-project",
+		"/home/williamd/vim/Network Programming/Echo/server.c",
+		"/home/williamd/vim/Network Programming/Echo/client.c",
+		"/home/williamd/vim/Network Programming/homework2/network.h",
+		"/home/williamd/vim/Network Programming/homework2/network.cpp",
+		"/home/williamd/vim/Network Programming/homework2/Makefile",
+		"/home/williamd/vim/Network Programming/homework2/test/console_code.cpp",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/netio.h",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/filetransfer.h",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/server.c",
+		"/home/williamd/vim/Network Programming/homework2/article.h",
+		"/home/williamd/vim/Network Programming/homework2/bbs.cpp",
+		"/home/williamd/vim/Network Programming/homework2/accounts",
+		"/home/williamd/vim/Network Programming/homework2/dataset.h",
+		"/home/williamd/vim/Network Programming/homework2/server_database.h",
+		"/home/williamd/vim/Network Programming/echo_hybrid/server.c",
+		"/home/williamd/vim/Network Programming/homework2/test/find.cpp",
+		"/home/williamd/vim/Network Programming/echo_hybrid/client.c",
+		"/home/williamd/vim/Network Programming/homework2/server.cpp",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/netio.c",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/client.c",
+		"/home/williamd/vim/Network Programming/echo_hybrid/client_udp.c",
+		"/home/williamd/vim/Network Programming/homework2/clienthandler.h",
+		"/home/williamd/vim/Network Programming/homework2/test/void.cpp",
+		"/home/williamd/vim/Network Programming/homework2/udpserver.h",
+		"/home/williamd/vim/Network Programming/homework2/test/wstring.cpp",
+		"/home/williamd/vim/Network Programming/homework2/udpserver.cpp",
+		"/home/williamd/vim/Network Programming/echo_hybrid/netio.h",
+		"/home/williamd/vim/Network Programming/echo_hybrid/netio.c",
+		"/home/williamd/vim/Network Programming/homework1/src/server.c",
+		"/home/williamd/vim/Network Programming/echo_hybrid/Makefile",
+		"/home/williamd/vim/Network Programming/echo_3rd/src/server.c",
+		"/home/williamd/vim/Network Programming/udpecho/uclient.c",
+		"/home/williamd/vim/Network Programming/dns_lab/dns.cpp",
+		"/home/williamd/vim/Network Programming/dns_lab/daytime_cli.c",
+		"/home/williamd/vim/Network Programming/homework1/src/client.c",
+		"/home/williamd/vim/Network Programming/homework1/Makefile",
+		"/media/williamd/2800FB2600FAF9A0/Users/williamd/Desktop/SoftwareEngineer/HW2/Program2.cc",
+		"/home/williamd/vim/Network Programming/NPP_HW1-master/src/filetransfer.c",
+		"/home/williamd/vim/Network Programming/homework1/src/filetransfer.h",
+		"/home/williamd/vim/Network Programming/homework1/src/filetransfer.c",
+		"/home/williamd/vim/Network Programming/homework1/src/netio.h",
+		"/home/williamd/vim/Network Programming/homework1/src/netio.c",
+		"/home/williamd/vim/Network Programming/hw1/sysio.h",
+		"/home/williamd/vim/Network Programming/hw1/server.c",
+		"/home/williamd/vim/Network Programming/echo_3rd/src/client.c",
+		"/home/williamd/vim/Network Programming/unet/server.c",
+		"/home/williamd/vim/Network Programming/homework1/netio.h",
+		"/home/williamd/vim/Network Programming/echo_3rd/src/netio.c",
+		"/home/williamd/vim/Network Programming/homework1/client.c",
+		"/home/williamd/vim/Network Programming/homework1/server.c",
+		"/home/williamd/vim/Network Programming/echo_3rd/src/netio.h",
+		"/home/williamd/vim/Network Programming/sockopt_lab/netio.c",
+		"/home/williamd/vim/Network Programming/sockopt_lab/netio.h",
+		"/home/williamd/vim/Network Programming/fcntl_lab/myfcntl.c",
+		"/home/williamd/vim/Network Programming/fcntl_lab/untitled",
+		"/home/williamd/vim/Network Programming/unpv13e/sockopt/checkopts.c",
+		"/home/williamd/vim/Network Programming/sockopt_lab/sockopt.c",
+		"/home/williamd/vim/Network Programming/sockopt_lab/Makefile",
+		"/home/williamd/vim/Network Programming/pipe_lab/main.c",
+		"/home/williamd/vim/Network Programming/hw1/client.c",
+		"/home/williamd/vim/Network Programming/hw1/sysio.c",
+		"/home/williamd/vim/Network Programming/hw1/filetransfer.h",
+		"/home/williamd/vim/Network Programming/hw1/netio.c",
+		"/home/williamd/vim/Network Programming/hw1/netio.h",
+		"/home/williamd/vim/Network Programming/hw1/Makefile",
+		"/home/williamd/vim/Network Programming/hw1/user.h",
+		"/home/williamd/vim/Network Programming/unet/netio.c",
+		"/home/williamd/vim/Network Programming/unet/client.c",
+		"/home/williamd/vim/Network Programming/unet/netio.h",
+		"/home/williamd/vim/Network Programming/unet/data.txt",
+		"/home/williamd/vim/Network Programming/unet/Makefile",
+		"/home/williamd/vim/Network Programming/echo_3rd/Makefile",
+		"/home/williamd/vim/Network Programming/unet/netio.cp",
+		"/home/williamd/django/lab0/mysite/manage.py",
+		"/home/williamd/vim/archi/mips/core.cpp",
+		"/home/williamd/vim/archi/mips/core.h",
+		"/home/williamd/vim/archi/mips/main.cpp",
+		"/home/williamd/vim/archi/mips/memory.cpp",
+		"/home/williamd/vim/archi/mips/memory.h",
+		"/home/williamd/vim/archi/mips/register.cpp",
+		"/home/williamd/vim/archi/mips/register.h",
+		"/home/williamd/vim/archi/mips/state.cpp",
+		"/home/williamd/vim/archi/mips/util.cpp",
+		"/home/williamd/vim/archi/mips/util.h",
+		"/home/williamd/django/lab0/lab0.py",
+		"/home/williamd/vim/Network Programming/unpv13e/sock/sock.h",
+		"/home/williamd/vim/Network Programming/unpv13e/lib/readline.c",
+		"/home/williamd/vim/Network Programming/unpv13e/lib/readline.lc",
+		"/home/williamd/vim/Network Programming/unpv13e/lib/readn.c",
+		"/home/williamd/vim/Network Programming/unpv13e/lib/readn.lc",
+		"/home/williamd/vim/Network Programming/unpv13e/lib/signal.lc",
+		"/home/williamd/vim/Network Programming/libnetio/src/netio.c",
+		"/home/williamd/vim/Network Programming/libnetio/include/netio.h",
+		"/home/williamd/vim/Network Programming/netutil/netutil.h",
+		"/home/williamd/vim/assembly/lab1.asm",
+		"/home/williamd/vim/assembly/gcd.asm",
+		"/home/williamd/vim/assembly/gcd.cpp",
+		"/home/williamd/vim/assembly/gcd.c",
+		"/home/williamd/文件/cbWorkspace/InversionPair/main.cpp",
+		"/home/williamd/workspace/SocketLab/lab4_node.py",
+		"/home/williamd/vim/Network Programming/echo_2nd/Makefile",
+		"/home/williamd/vim/Network Programming/Echo/network.c",
+		"/home/williamd/vim/Network Programming/libnetio/include/netio",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/client",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/Makefile",
+		"/home/williamd/vim/Network Programming/libnetio/Makefile",
+		"/home/williamd/vim/Network Programming/libnetio/src/netio.h",
+		"/home/williamd/vim/Network Programming/libnetio/libnetio.sublime-project",
+		"/home/williamd/vim/Network Programming/libnetio/network.h",
+		"/home/williamd/vim/Network Programming/libnetio/network.c",
+		"/home/williamd/文件/cbWorkspace/uva_812/main2.cpp",
+		"/home/williamd/.config/sublime-text-3/Packages/C++11/messages/install.txt",
+		"/home/williamd/vim/Network Programming/echo_2nd/client.c",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+		"/home/williamd/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+		"/home/williamd/vim/NetWork Programming/Echo/network.c",
+		"/home/williamd/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cur_aid",
+			"RESPONSE",
+			"MAXARTICLEID",
+			"get",
+			"Articleheaer::store",
+			"encode_op",
+			"display",
+			"split",
+			"send_visit",
+			"max",
+			"Listen",
+			"ListEN",
+			"Option",
+			"create_sender_node",
+			"receive",
+			"state",
+			"SERV_PORT",
+			"type",
+			"port",
+			"extern const int ACK;\nextern const int NAK;",
+			"receive_file",
+			"client",
+			"create_node",
+			"void func_receive_dir(node *server)",
+			"server",
+			"strncmp",
+			"clifp",
+			"Node",
+			"pnrein",
+			"accept",
+			"fd",
+			"sock_str_flag",
+			"val",
+			"func_echo2",
+			"func_ech2",
+			"exit",
+			"return",
+			"client",
+			"            case ECHO:\n                func_echo(sockfd);\n                break;\n            case DAYTIME:\n                func_daytime(sockfd);\n                client_state = STATE_DISABLE;\n                break;\n            default:\n                break;\n        }",
+			"        }",
+			"state",
+			"tics",
+			"SRC",
+			"scanf",
+			"elsem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"decode_op",
+			"server_port",
+			"create_sender_node"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "udpclient.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "udpclient.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "udpserver.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3397,
+								3397
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "udpserver.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								929
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "clienthandler.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1424,
+								1424
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "clienthandler.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4127,
+								4127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5191,
+								5191
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef _SERVER_H_",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "network.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "network.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "client.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4249,
+								4249
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2777.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "article.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2046,
+								2046
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "article.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5360,
+								5360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2214.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "bbs.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "bbs.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1982,
+								1982
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bbs.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"src/client.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/vim/Network Programming/libnetio/libnetio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
